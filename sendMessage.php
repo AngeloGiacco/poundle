@@ -21,7 +21,7 @@
                 <i class="fa fa-bars toggle-menu"></i>
                 <nav>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
                 </nav>
