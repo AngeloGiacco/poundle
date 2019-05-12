@@ -37,11 +37,9 @@
 
         <section id = "help" class="feature greybg">
             <div class="container">
-                <h1> Output</h1>
+                <h1> Message Sent</h1>
                 <?php
-                  echo("<p> Name = ".$_POST["name"]."</p>");
-                  echo("<p> Email = ".$_POST["email"]."</p>");
-                  echo("<p> Message = ".$_POST["Message"]."</p>");
+                  print_r($_POST);
                 ?>
             </div>
         </section>
