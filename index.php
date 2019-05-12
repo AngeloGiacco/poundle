@@ -117,7 +117,7 @@
                     <label class="input"><span>Name</span><input type="text" name="name" required></label>
                     <label class="input"><span>Email Address</span><input type="email" name="email" required></label>
                     <label class="message"><span>Message</span><textarea name="message" required></textarea></label>
-                    <label class="submit"><a href="sendMessage.php" class="btn">Send Message<i class="fa fa-angle-right"></i></a></label>
+                    <label class="submit"><a class="btn">Send Message<i class="fa fa-angle-right"></i></a></label>
                 </form>
             </div>
         </section>
