@@ -112,13 +112,8 @@
         <section class="contact">
             <div class="container">
                 <h1>Get in touch</h1>
-                <h2>Wanna help or just Waitrose sending death threats? Either way, feel free to email <a href="mailto:giacco.angelo.s@gmail.com">me</a></h2>
-                <form action"/sendMessage.php" method="GET">
-                    <label class="input"><span>Name</span><input type="text" name="name" required></label>
-                    <label class="input"><span>Email Address</span><input type="email" name="email" required></label>
-                    <label class="message"><span>Message</span><textarea name="message" required></textarea></label>
-                    <input type="submit" value="Send Message">
-                </form>
+                <h2>Wanna help or just Waitrose sending death threats?<h2>
+                <h3>Either way, feel free to email <a href="mailto:giacco.angelo.s@gmail.com">me</a></h3>
             </div>
         </section>
 
