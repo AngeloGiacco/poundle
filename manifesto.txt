@@ -6,5 +6,7 @@ we believe that a local cryptocurrency backed by the British Pound that can only
 be spent in local businesses will greatly boost local business.
 We think that the system should be trialed in Oundle and then expanded throughout
 East Northmaptonshire.
-Finally, a platform should be built so that a council or county can easily
+We believe that security is of the utmost importance which is why we are building
+a token on the Ethereum blockchain rather than our own buggy blockchain.
+Finally, a platform should be built so that any council or county can easily
 create their own local cryptocurrency.
