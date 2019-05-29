@@ -6,7 +6,7 @@
 
 ## About
 
-he local crypto💵 for Oundle and surrounding areas
+the local crypto💵 for Oundle and surrounding areas
 
 🚀built on the ethereum blockchain!
 
